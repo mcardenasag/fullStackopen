@@ -107,6 +107,7 @@ const App = () => {
 
   const handleClick = () =>{
     console.log('Clicked')
+    console.log('Hi world...')
   }
  
 
@@ -122,3 +123,5 @@ const App = () => {
 }
 
 export default App
+
+//Cambio minimo
